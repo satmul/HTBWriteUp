@@ -15,4 +15,4 @@ RULES :
 
 
 
-ps. kalo gamales ntar dilanjutin WUnya hehe 
+ps. i'm still a n3wb :(
