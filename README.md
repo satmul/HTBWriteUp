@@ -1,7 +1,7 @@
-<h1>HTB WriteUp
+HTB WriteUp
 
-<h1>Hi, There.
-  ![logo](https://i.gifer.com/4vss.gif)
+Hi, There.
+
 This is my own page for Hack The Box Write Up
 
 RULES :
