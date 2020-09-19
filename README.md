@@ -1,4 +1,5 @@
-# HTBWriteUp ![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hackthebox.eu%2F&psig=AOvVaw1gqilzE0A7iZeh4F1dZMlZ&ust=1600611675767000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj81aS19esCFQAAAAAdAAAAABAD)
+# HTBWriteUp
+![logo](https://www.hackthebox.eu/images/logo600.png)
 # Hi, There.
 
 This is my own page for Hack The Box Write Up
