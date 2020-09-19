@@ -1,10 +1,10 @@
-HTB WriteUp
+<h1>HTB WriteUp
 
 Hi, There.
 
 This is my own page for Hack The Box Write Up
 
-RULES :
+__RULES__ :
 
 1.For decrypting .PDF password, AFTER Traceback machine 
 - LINUX MACHINE : cat /etc/shadow
