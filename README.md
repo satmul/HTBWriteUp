@@ -1,6 +1,6 @@
-__HTBWriteUp
+<h1>HTB WriteUp</h1>
 ![logo](https://www.hackthebox.eu/images/logo600.png)
-__Hi, There.
+<h1>Hi, There.</h1>
 
 This is my own page for Hack The Box Write Up
 
@@ -32,4 +32,4 @@ RULES :
 
 
 ps. i'm still a n3wb :(
-![yt](https://turbologo.com/articles/wp-content/uploads/2019/10/youtube-logo-illustration-1280x720.jpg) : https://www.youtube.com/watch?v=ux3cPwC507U&list=PLIJsl6YfUBxEJL4E60BpGXpJ52vdmANPh
+YouTube : https://www.youtube.com/watch?v=ux3cPwC507U&list=PLIJsl6YfUBxEJL4E60BpGXpJ52vdmANPh
